@@ -1,4 +1,4 @@
-# CTF-JohnFlatPressV3
+# CTF-JohnFlatPress
 Create a virtual machine for learning penetration testing  
 
 Exploitation Walkthrough - https://drive.google.com/file/d/182pkAOHyaeQYp0anzANFYxpPXB_UurW7/view?usp=sharing  
